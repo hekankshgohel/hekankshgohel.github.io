@@ -11,7 +11,7 @@ body {
 			width:30%;
 			display: inline-block;
 			margin-left: 10%;
-			background: #5da4d9;
+			background: #F9BF54;
 			color: black;
 		}
 
@@ -29,7 +29,7 @@ body {
 
 		.profile-info {
 			padding: 20px 10px;
-			border-bottom: 1px solid #4783c2;
+			border-bottom: 1px solid #000000;
 		}
 
 		 .profile-info p{
