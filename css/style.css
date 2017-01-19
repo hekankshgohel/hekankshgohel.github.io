@@ -1,9 +1,9 @@
 body {
-	background: lavender;
+  background: lavender;
 	color: #767270;
 	padding: 1%;
 	font-size: 15px;
-	font-family: verdana, sans-serif;
+	font-family: Open-Sans, sans-serif;
 }
 
 .sidebar {
@@ -44,6 +44,32 @@ img {
 }
 
 .profile-info .value{
+			background: #eae8e7;
+			color: #767270;
+			padding: 1%;
+			font-size: 15px;
+			font-family: verdana, sans-serif;
+
+		}
+		
+		.sidebar {
+			width:30%;
+			display: inline-block;
+			margin-left: 10%;
+			background: #FAC45E;
+			color: black;
+		}
+
+		img {
+			width: 100%;
+		}
+
+		.sidebar-top { position: relative; }
+
+		.profile-basic {
+			position: relative;
+			bottom: 0px;
+			left: 50px;
 		}
 
 .content {
