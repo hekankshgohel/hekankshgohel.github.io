@@ -1,6 +1,6 @@
 body {
-			background: #eae8e7;
-			color: #767270;
+			background: #6A97C4;
+			color: #3D3937;
 			padding: 1%;
 			font-size: 15px;
 			font-family: verdana, sans-serif;
@@ -11,7 +11,7 @@ body {
 			width:30%;
 			display: inline-block;
 			margin-left: 10%;
-			background: #FAC45E;
+			background: #FFFFFF;
 			color: black;
 		}
 
@@ -87,6 +87,6 @@ body {
     }
 
 		.duration {
-			color: #5da4d9;
+			color: #3A76A3;
 			font-size:12px;
 		}
